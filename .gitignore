@@ -1,0 +1,6 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Reference GNSS datasets - keep locally, do not upload
+reference/zzq/data/
